@@ -1,7 +1,4 @@
 
-from typing import List
-
-
 def moveZeros(array:list):
     i = 0
     for num in array:
